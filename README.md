@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mangeshdaspute
+- 👀 I’m interested in exoplanet research and machine learning using Python, IDL, Rust, Matlab, C++ and Fortran  
+- 🌱 I’m currently learning the above. 
+- 💞️ I’m looking to collaborate on exoplanet observation research. 
