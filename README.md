@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Mangesh Daspute.
-- 👀 I’m using machine learning for exoplanet research. I am using Python and Matlab.  
-- 🌱 I’m currently learning  Rust.  
+- 👀 I’m using machine learning for exoplanet research.    
